@@ -2,6 +2,6 @@
     --couleur-primaire : #993B1F;
 }
 
-table {
-    border : 1px solid #993B1F;
+table, th, td {
+    border : 3px solid #993B1F;
 }
