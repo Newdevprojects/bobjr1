@@ -13,7 +13,7 @@ De boekhouding omvat verschillende financiële processen die worden uitgevoerd m
 
 In dit kernproces van de financiële dienst kan er een verder onderscheid gemaakt worden in proces in functie van de verschillende vereffeningsdossiers die behandeld worden. Er worden aankoopfacturen behandeld die volgen uit bestellingen of contracten, daarnaast zijn er ook andere diverse uitgaven die behandeld worden door het team van vereffenaars zoals de betalingsopdrachten voor de dossiers overmatige schuldenlast, de auditfacturen van BELAC en andere kleine verantwoorde kosten van personeelsleden.
 
-Hieronder wordt een verwijzing gemaakt naar het gepubliceerde proces voor de verwerking van de aankoopfacturen in Fedcom.
+Hieronder wordt een verwijzing gemaakt naar het gepubliceerde proces voor de verwerking van de aankoopfacturen in Fedcom.  
 URL: [S2 FINANCE 3-001/7 Vereffenen aankoopfacturen (fgov.be)]([sfinadesign.internal.economie.fgov.be](http://sfinadesign.internal.economie.fgov.be/#default/item/c.process.FODE_SPFE.klnL4X1oEelApABQVqH4fw.-1/~AbBbIm1vZGVsVmlld2VyUmVwb3J0cyJd))
 
 Zoals uit dit proces blijkt is de verwerking en tijdige behandeling van deze facturen een gedeelde verantwoordelijkheid en zijn we als financiële dienst ook afhankelijk van de vlotte bijstand van medewerkers doorheen de organisatie betrokken bij een prestatie uitgevoerd door een derde. Om tijdige betaling aan onze leveranciers te garanderen is het belangrijk dat het  “three-way-match-principe” vlot werkt (dit is de juiste afstemming tussen de bestelling/contract, geleverde prestatie en factuur). De rol van de betrokken ambtenaar van de DG of SD in de uitvoeringsfase van de opdracht hierin is dat hij/zij tijdig de geleverde prestaties moet verifiëren en het resultaat van zijn controle bevestigen via Fedcom alvorens de factuur kan betaald worden. Het is de rol van validator in Fedcom die het resultaat van deze controle bevestigd in Fedcom. De rol van validator wordt vaak door de leidend ambtenaar gedelegeerd aan andere personen binnen de dienst. Via onderstaande link kan u de lijst van validators terugvinden die deze controle doet aan de hand van de gefactureerde prestaties.
@@ -22,7 +22,7 @@ Lijst validators: [Goedkeurders - Ontvangers - overzicht .xlsx]([Accès requis (
 
 Hieronder vindt u een tabel terug die ons toont in welke mate ons departement in staat is de wettelijke betaaltermijn te respecteren in vergelijking tot andere departementen.
 
-IMAGE
+![image1 Peter intranet](/images/Image1.png)
 
 ### 1.2.	voeren van de boekhouding:
 
