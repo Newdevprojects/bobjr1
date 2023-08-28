@@ -1,3 +1,7 @@
 :root {
     --couleur-primaire : #993B1F;
 }
+
+table {
+    border-color : #993B1F;
+}
