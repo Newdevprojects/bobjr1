@@ -22,7 +22,7 @@ Lijst validators: [Goedkeurders - Ontvangers - overzicht .xlsx]([Accès requis (
 
 Hieronder vindt u een tabel terug die ons toont in welke mate ons departement in staat is de wettelijke betaaltermijn te respecteren in vergelijking tot andere departementen.
 
-![image1 Peter intranet](/images/Image1.png)
+![Image 1 Peter intranet](https://github.com/Newdevprojects/S2/blob/master/Image1_Peter_Intranet.png?raw=true)
 
 ### 1.2.	voeren van de boekhouding:
 
@@ -55,7 +55,7 @@ De financiële dienst schept een kader die de procedures voor de niet-fiscale on
 
 Een overzicht van de niet-fiscale ontvangsten en de betrokken rollen vindt u in onderstaande tabel:
  
-IMAGE
+![Image 2 Peter intranet](https://github.com/Newdevprojects/S2/blob/master/Image2_Peter_Intranet.png?raw=true)
 
 •	Fiscale verplichtingen:
 
