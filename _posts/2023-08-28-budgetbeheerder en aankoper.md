@@ -11,6 +11,6 @@ Gezien er binnenkort een algemene laureatenreserve niveau B vrijkomt van Selor, 
 
 > Ces trois fichiers ont été envoyés avec les invitations pour la réunion.
 
-* [Lien](https://ln5.sync.com/dl/6d05e1cc0/84gfm6a6-9ezwcte6-zkbe7met-nbg3akbw) vers le texte complet de l'e-mail
-* [Lien vers la réaction de Peter](https://ln5.sync.com/dl/e0469ff40/64aw6jzu-u8v3db6e-765g8ayh-nbuzqh6u) au mail d'Insen De Rop
-* [Lien vers la description de fonction pour S2 et S3](https://ln5.sync.com/dl/398b3a990/fxzjv34x-hahz757x-sia96ptq-ayxu6yzw) suggéré par S1
+* [Lien](https://od.lk/s/NDlfMzE4NTIwNzlf/20230818_Mail_Insen_De-Rop.pdf) vers le texte complet de l'e-mail
+* [Lien vers la réaction de Peter](https://od.lk/s/NDlfMzE4NTIwNzdf/20230818_Reactie_Peter.pdf) au mail d'Insen De Rop
+* [Lien vers la description de fonction pour S2 et S3](https://od.lk/s/NDlfMzE4NTIwNzhf/Draft_budgetbeheerder_S2-S3.pdf) suggéré par S1
