@@ -1,7 +1,7 @@
 ---
-title: "Portail"
+title: "Portail FR"
 ---
-# Financiële boekhouding binnen de FOD
+# La comptabilité financière au sein du SPF
 
 Essentieel hiervoor is dat naast een adequate functiescheiding de aangeleverde informatie en bewijsstukken van alle diensten van goede kwaliteit zijn.
 
