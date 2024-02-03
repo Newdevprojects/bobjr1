@@ -11,10 +11,10 @@ Les irrégularités et/ou les illégalités doivent être identifiées le plus t
 
 L'objectif est de s'assurer de l'exactitude et de la véracité des [comptes du SPF](https://newdevprojects.github.io/bobjr1/2023/11/12/link2-fr.html) [[**LIEN 2**]]. Dans la tenue de la comptabilité, chacun a donc sa propre responsabilité et ne se limite pas aux compétences du Service d’encadrement "Budget et Contrôle de gestion".
 
-De boekhouding omvat verschillende [financiële processen](https://newdevprojects.github.io/bobjr1/2023/11/12/link1.html) [[**LINK 1**]] die worden uitgevoerd met behulp van Fedcom.
+La comptabilité comprend différents [processus financiers](https://newdevprojects.github.io/bobjr1/2023/11/12/link1-fr.html) [[**LIEN 1**]] qui sont exécutés à l'aide de Fedcom.
 
-De uitvoering van de boekhoudkundige en betaalprocessen en het [beheer van de Fedcomrollen](https://newdevprojects.github.io/bobjr1/2023/11/12/link3.html) [[**LINK 3**]] hebben als reglementaire basis:
-* Koninklijk Besluit van 10 nov 2009 omtrent het boekhoudplan en de waarderingsregels
+L'exécution des processus comptables et des paiements ainsi que la [gestion des rôles Fedcom](https://newdevprojects.github.io/bobjr1/2023/11/12/link3-fr.html) [[**LIEN 3**]] ont pour bases réglementaires :
+* l’Arrêté royal du 10 nov. 2009 relatif au plan comptable et aux règles d’évaluation
 	* URL: "KB 10 nov 2009_boekhoudplan en waardering.pdf"
-* Wet van 22 mei 2003 houdende de organisatie van de begroting van de federale staat
+* la Loi du 22 mai 2003 portant organisation du budget de l’État fédéral
 	* URL: Wet van 22/05/2003 houdende organisatie van de begroting en van de comptabiliteit van de federale staat (openjustice.be)
