@@ -14,7 +14,7 @@ L'objectif est de s'assurer de l'exactitude et de la véracité des [comptes du 
 La comptabilité comprend différents [processus financiers](https://newdevprojects.github.io/bobjr1/2023/11/12/link1-fr.html) [[**LIEN 1**]] qui sont exécutés à l'aide de Fedcom.
 
 L'exécution des processus comptables et des paiements ainsi que la [gestion des rôles Fedcom](https://newdevprojects.github.io/bobjr1/2023/11/12/link3-fr.html) [[**LIEN 3**]] ont pour bases réglementaires :
-* l’Arrêté royal du 10 nov. 2009 relatif au plan comptable et aux règles d’évaluation
+* l’Arrêté royal du 10 novembre 2009 relatif au plan comptable et aux règles d’évaluation
 	* URL: "KB 10 nov 2009_boekhoudplan en waardering.pdf"
 * la Loi du 22 mai 2003 portant organisation du budget de l’État fédéral
 	* URL: Wet van 22/05/2003 houdende organisatie van de begroting en van de comptabiliteit van de federale staat (openjustice.be)
