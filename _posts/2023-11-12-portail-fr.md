@@ -3,13 +3,13 @@ title: "Portail FR"
 ---
 # La comptabilité financière au sein du SPF
 
-Essentieel hiervoor is dat naast een adequate functiescheiding de aangeleverde informatie en bewijsstukken van alle diensten van goede kwaliteit zijn.
+Il est essentiel qu’en plus d’une séparation adéquate des tâches, les informations et les pièces justificatives fournies par tous les services soient de bonne qualité.
 
-Elke transactie dient correct, tijdig en volledig ingeschreven te worden in de boekhouding en gelinkt te zijn aan een verantwoordingsstuk. Iedere medewerker dient bij te dragen en actief te participeren.
+Chaque transaction doit être enregistrée correctement, à temps et en totalité dans les comptes et doit être liée à un document justificatif. Chaque collaborateur doit y contribuer et participer activement. 
 
-Onregelmatigheden en/of onwettigheden dienen in een zo vroeg mogelijk stadium te worden herkend om daarna de meeste geschikte acties te ondernemen.
+Les irrégularités et/ou les illégalités doivent être identifiées le plus tôt possible afin de prendre les mesures les plus appropriées. 
 
-Het doel is om de juistheid en waarheidsgetrouwheid van de [boekhouding van de FOD](https://newdevprojects.github.io/bobjr1/2023/11/12/link2.html) [[**LINK 2**]] te kunnen verzekeren. Bij het voeren van de boekhouding heeft dus ieder zijn verantwoordelijkheid en is deze niet beperkt tot de bevoegdheid van de Stafdienst "Budget en Beheerscontrole".
+L'objectif est de s'assurer de l'exactitude et de la véracité des [comptes du SPF](https://newdevprojects.github.io/bobjr1/2023/11/12/link2-fr.html) [[**LIEN 2**]]. Dans la tenue de la comptabilité, chacun a donc sa propre responsabilité et ne se limite pas aux compétences du Service d’encadrement "Budget et Contrôle de gestion".
 
 De boekhouding omvat verschillende [financiële processen](https://newdevprojects.github.io/bobjr1/2023/11/12/link1.html) [[**LINK 1**]] die worden uitgevoerd met behulp van Fedcom.
 
