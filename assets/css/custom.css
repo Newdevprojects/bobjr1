@@ -2,6 +2,10 @@
     --couleur-primaire : #993B1F;
 }
 
+body {
+max-width : 960px;
+}
+
 table, th, td {
     border : 3px solid #993B1F;
 border-collapse : collapse;
